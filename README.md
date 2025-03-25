@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonali Guha</h1>
 <h3 align="center">Data Analytics & Digital Marketing enthusiast with an MBA in HR & Marketing, blending business acumen with tech expertise. Upskilling in Data Science, Python, and Power BI to drive data-driven strategies.</h3>
 
-<iframe src="https://lottie.host/embed/JTyygZuvb" width="400" height="400"></iframe>
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonaliguha&label=Profile%20views&color=0e75b6&style=flat" alt="sonaliguha" /> </p>
 
 - 🌱 Developing skills in **Data Science,PowerBi and Digital Marketing**  
