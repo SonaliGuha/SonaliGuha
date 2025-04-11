@@ -4,7 +4,7 @@
 <img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonaliguha&label=Profile%20views&color=0e75b6&style=flat" alt="sonaliguha" /> </p>
 
-- 🌱 Developing skills in **Data Science,PowerBi and Digital Marketing**  
+- 🌱 Developing skills in **Data Science, Data Analytics and Digital Marketing**  
 - 🎨 I love **designing stunning Power BI dashboards** and transforming data into insights  
 - 💬 Ask me about **Data Analytics, Marketing Strategies, and Visualization**  
 
